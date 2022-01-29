@@ -1,7 +1,7 @@
 import textwrap
 ##########################################################################################
 # Challenge -> https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true #
-# By        -> jhosmanfrias, Jan-202                                                     #
+# By        -> jhosmanfrias, Jan-2022                                                    #
 ##########################################################################################
 
 def wrap(string, max_width):

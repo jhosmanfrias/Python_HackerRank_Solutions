@@ -1,6 +1,6 @@
 ###############################################################################################
 # Challenge -> https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true #
-# By        -> jhosmanfrias, Jan-202                                                          #
+# By        -> jhosmanfrias, Jan-2022                                                         #
 ###############################################################################################
 
 thickness = int(input()) #This must be an odd number
