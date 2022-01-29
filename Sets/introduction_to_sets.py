@@ -1,6 +1,6 @@
 ########################################################################################################
 # Challenge -> https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true #
-# By        -> jhosmanfrias, Jan-202                                                                   #
+# By        -> jhosmanfrias, Jan-2022                                                                  #
 ########################################################################################################
 
 def average(array):
