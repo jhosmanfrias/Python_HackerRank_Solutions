@@ -1,6 +1,6 @@
 ##################################################################################################
 # Challenge -> https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true #
-# By        -> jhosmanfrias, Jan-202                                                             #
+# By        -> jhosmanfrias, Jan-2022                                                            #
 ##################################################################################################
 
 if __name__ == '__main__':
