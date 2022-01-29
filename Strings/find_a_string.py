@@ -1,6 +1,6 @@
 ##############################################################################################
 # Challenge -> https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true #
-# By        -> jhosmanfrias, Jan-202                                                         #
+# By        -> jhosmanfrias, Jan-2022                                                        #
 ##############################################################################################
 
 def count_substring(string, sub_string):

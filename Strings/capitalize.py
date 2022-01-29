@@ -8,7 +8,7 @@ import sys
 ###########################################################################################
 # Challenge -> https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true #
 # Warning.  -> Put in your terminal this: export OUTPUT_PATH=/tmp/output.csv before       #
-# By        -> jhosmanfrias, Jan-202                                                      #
+# By        -> jhosmanfrias, Jan-2022                                                     #
 ###########################################################################################
 
 # Complete the solve function below.

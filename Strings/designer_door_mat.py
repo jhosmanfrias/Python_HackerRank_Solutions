@@ -1,7 +1,7 @@
 
 ##################################################################################################
 # Challenge -> https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true #
-# By        -> jhosmanfrias, Jan-202                                                             #
+# By        -> jhosmanfrias, Jan-2022                                                            #
 ##################################################################################################
 
 n, m = input().split()
